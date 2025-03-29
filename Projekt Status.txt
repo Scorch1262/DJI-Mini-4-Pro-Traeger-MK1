@@ -1,0 +1,15 @@
+Projekt-Status:
+
+Datum:		Status:
+08.03.2025	- Druckdaten für Träger_A_V1.0 erzeugt
+		- Druckdaten für Träger_B_V1.0 erzeugt
+		- Druck von Träger_A_V1.0 begonnen
+		- Druck von Träger_B_V1.0 begonnen
+		- Druck von Träger_A_V1.0 abgeschlossen
+		- Druck von Träger_B_V1.0 abgeschlossen
+		- Druckdaten für Träger_B_V1.1 erzeugt
+		- Druck von Träger_B_V1.1 begonnen
+		- Druck von Träger_B_V1.1 abgeschlossen
+07.03.2025	- Planung begonnen
+		- Planung von Hauptboard_V1.0 begonnen
+		- Planung von Hauptboard_V1.0 abgeschlossen

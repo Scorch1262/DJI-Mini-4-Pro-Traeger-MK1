@@ -1,0 +1,9 @@
+Hardware Release:
+
+ Board (Hardware V1.0) [P]:
+- PIC16F181323
+ - ICSP
+- Glättungskondensatoren
+- Servo Stiftleiste
+- USB-C Buchse
+- Phototransistor
