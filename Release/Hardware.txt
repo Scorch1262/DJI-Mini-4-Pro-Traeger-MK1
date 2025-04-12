@@ -1,6 +1,6 @@
 Hardware Release:
 
- Board (Hardware V1.0) [P]:
+ Board (Hardware V1.0) [F]:
 - PIC16F181323
  - ICSP
 - Glättungskondensatoren

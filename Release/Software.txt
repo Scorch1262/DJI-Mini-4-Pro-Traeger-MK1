@@ -1,4 +1,10 @@
 Software Release: 
 
- Funktionen (Software V1.0) [P]:
-- 
+ Funktionen (Software V1.0) [F]:
+- MCC Timer Funktion
+- 1x Servos ansteuern
+- Steuerung:
+	- Licht an
+		- Servo Auf
+	- Licht aus		
+		- Servo Zu
